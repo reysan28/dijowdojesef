@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header { 
+   padding: 10px;
+    border-radius: 5px; 
+    background-color: rgb(192, 144, 224);
+
+}
+
+header b {
+    font-family: Times New Roman;
+    color: rgb(70, 22, 75);
+}
+header a {
+    color: rgb(64, 36, 71);
+    text-decoration: none;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+nav a{
+    margin: 5;
+   border: 5px solid rgb(192, 144, 224);
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    text-decoration: none;
+    color:rgb(64, 36, 71);
+}
+h1{
+    color: rgb(191, 145, 224);
+    border: 2px solid rgb(192, 144, 224);
+    border-radius: 5px;
+    text-align: center;
+}
